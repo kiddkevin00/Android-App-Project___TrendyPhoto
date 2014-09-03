@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res" >
+            <file
+                name="find"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-hdpi/find.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="flickr"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-hdpi/flickr.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="search_background"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-hdpi/search_background.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="searchresult_background2"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-hdpi/searchresult_background2.jpg"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="find"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-mdpi/find.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="flickr"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-mdpi/flickr.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="search_background"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-mdpi/search_background.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="searchresult_background2"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-mdpi/searchresult_background2.jpg"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="find"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xhdpi/find.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="flickr"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xhdpi/flickr.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="search_background"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xhdpi/search_background.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="searchresult_background2"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xhdpi/searchresult_background2.jpg"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="find"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xxhdpi/find.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="flickr"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xxhdpi/flickr.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="search_background"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xxhdpi/search_background.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="searchresult_background2"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/drawable-xxhdpi/searchresult_background2.jpg"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_detailed_view"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/layout/activity_detailed_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_grid_list"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/layout/activity_grid_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="detailed_view"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/menu/detailed_view.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="grid_list"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/menu/grid_list.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="InitValue" >InitValue
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+                <string name="OpenBrowser" >Open Browser
+                </string>
+                <string name="contactString" >Select Contact
+                </string>
+                <string name="title_activity_grid_list" >GridListActivity
+                </string>
+                <string name="app_name" >TrendyPhoto
+                </string>
+                <string name="or" >or
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="searchString" >Search Keyword
+                </string>
+                <string name="title_activity_detailed_view" >DetailedViewActivity
+                </string>
+            </file>
+            <file
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/build/generated/res/rs/debug" />
+        <source path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/Marcus/Documents/android-studio-projects/TrendyPhoto_v2/app/src/debug/res" />
+    </dataSet>
+
+</merger>
